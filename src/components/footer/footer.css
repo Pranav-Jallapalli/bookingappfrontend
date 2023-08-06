@@ -1,0 +1,18 @@
+.footer {
+  width: 100%;
+  width: 1024px;
+  font-size: 12px;
+}
+.fLists {
+  width: 100%;
+  font-size: medium;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.fList {
+  list-style: none;
+}
+.fText {
+  text-align: center;
+}
